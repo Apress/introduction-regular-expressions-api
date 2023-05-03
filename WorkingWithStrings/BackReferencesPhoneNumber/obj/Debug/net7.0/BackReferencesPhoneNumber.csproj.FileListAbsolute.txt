@@ -1,0 +1,15 @@
+/Users/home/Projects/WorkingWithStrings/BackReferencesPhoneNumber/bin/Debug/net7.0/BackReferencesPhoneNumber
+/Users/home/Projects/WorkingWithStrings/BackReferencesPhoneNumber/bin/Debug/net7.0/BackReferencesPhoneNumber.deps.json
+/Users/home/Projects/WorkingWithStrings/BackReferencesPhoneNumber/bin/Debug/net7.0/BackReferencesPhoneNumber.runtimeconfig.json
+/Users/home/Projects/WorkingWithStrings/BackReferencesPhoneNumber/bin/Debug/net7.0/BackReferencesPhoneNumber.dll
+/Users/home/Projects/WorkingWithStrings/BackReferencesPhoneNumber/bin/Debug/net7.0/BackReferencesPhoneNumber.pdb
+/Users/home/Projects/WorkingWithStrings/BackReferencesPhoneNumber/obj/Debug/net7.0/BackReferencesPhoneNumber.csproj.AssemblyReference.cache
+/Users/home/Projects/WorkingWithStrings/BackReferencesPhoneNumber/obj/Debug/net7.0/BackReferencesPhoneNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/Projects/WorkingWithStrings/BackReferencesPhoneNumber/obj/Debug/net7.0/BackReferencesPhoneNumber.AssemblyInfoInputs.cache
+/Users/home/Projects/WorkingWithStrings/BackReferencesPhoneNumber/obj/Debug/net7.0/BackReferencesPhoneNumber.AssemblyInfo.cs
+/Users/home/Projects/WorkingWithStrings/BackReferencesPhoneNumber/obj/Debug/net7.0/BackReferencesPhoneNumber.csproj.CoreCompileInputs.cache
+/Users/home/Projects/WorkingWithStrings/BackReferencesPhoneNumber/obj/Debug/net7.0/BackReferencesPhoneNumber.dll
+/Users/home/Projects/WorkingWithStrings/BackReferencesPhoneNumber/obj/Debug/net7.0/refint/BackReferencesPhoneNumber.dll
+/Users/home/Projects/WorkingWithStrings/BackReferencesPhoneNumber/obj/Debug/net7.0/BackReferencesPhoneNumber.pdb
+/Users/home/Projects/WorkingWithStrings/BackReferencesPhoneNumber/obj/Debug/net7.0/BackReferencesPhoneNumber.genruntimeconfig.cache
+/Users/home/Projects/WorkingWithStrings/BackReferencesPhoneNumber/obj/Debug/net7.0/ref/BackReferencesPhoneNumber.dll

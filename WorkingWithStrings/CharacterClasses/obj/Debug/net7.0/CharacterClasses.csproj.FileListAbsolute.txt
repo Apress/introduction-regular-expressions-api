@@ -1,0 +1,15 @@
+/Users/home/Projects/WorkingWithStrings/CharacterClasses/bin/Debug/net7.0/CharacterClasses
+/Users/home/Projects/WorkingWithStrings/CharacterClasses/bin/Debug/net7.0/CharacterClasses.deps.json
+/Users/home/Projects/WorkingWithStrings/CharacterClasses/bin/Debug/net7.0/CharacterClasses.runtimeconfig.json
+/Users/home/Projects/WorkingWithStrings/CharacterClasses/bin/Debug/net7.0/CharacterClasses.dll
+/Users/home/Projects/WorkingWithStrings/CharacterClasses/bin/Debug/net7.0/CharacterClasses.pdb
+/Users/home/Projects/WorkingWithStrings/CharacterClasses/obj/Debug/net7.0/CharacterClasses.csproj.AssemblyReference.cache
+/Users/home/Projects/WorkingWithStrings/CharacterClasses/obj/Debug/net7.0/CharacterClasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/Projects/WorkingWithStrings/CharacterClasses/obj/Debug/net7.0/CharacterClasses.AssemblyInfoInputs.cache
+/Users/home/Projects/WorkingWithStrings/CharacterClasses/obj/Debug/net7.0/CharacterClasses.AssemblyInfo.cs
+/Users/home/Projects/WorkingWithStrings/CharacterClasses/obj/Debug/net7.0/CharacterClasses.csproj.CoreCompileInputs.cache
+/Users/home/Projects/WorkingWithStrings/CharacterClasses/obj/Debug/net7.0/CharacterClasses.dll
+/Users/home/Projects/WorkingWithStrings/CharacterClasses/obj/Debug/net7.0/refint/CharacterClasses.dll
+/Users/home/Projects/WorkingWithStrings/CharacterClasses/obj/Debug/net7.0/CharacterClasses.pdb
+/Users/home/Projects/WorkingWithStrings/CharacterClasses/obj/Debug/net7.0/CharacterClasses.genruntimeconfig.cache
+/Users/home/Projects/WorkingWithStrings/CharacterClasses/obj/Debug/net7.0/ref/CharacterClasses.dll

@@ -1,0 +1,15 @@
+/Users/home/Projects/WorkingWithStrings/WorkingWithStrings/bin/Debug/net7.0/WorkingWithStrings
+/Users/home/Projects/WorkingWithStrings/WorkingWithStrings/bin/Debug/net7.0/WorkingWithStrings.deps.json
+/Users/home/Projects/WorkingWithStrings/WorkingWithStrings/bin/Debug/net7.0/WorkingWithStrings.runtimeconfig.json
+/Users/home/Projects/WorkingWithStrings/WorkingWithStrings/bin/Debug/net7.0/WorkingWithStrings.dll
+/Users/home/Projects/WorkingWithStrings/WorkingWithStrings/bin/Debug/net7.0/WorkingWithStrings.pdb
+/Users/home/Projects/WorkingWithStrings/WorkingWithStrings/obj/Debug/net7.0/WorkingWithStrings.csproj.AssemblyReference.cache
+/Users/home/Projects/WorkingWithStrings/WorkingWithStrings/obj/Debug/net7.0/WorkingWithStrings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/Projects/WorkingWithStrings/WorkingWithStrings/obj/Debug/net7.0/WorkingWithStrings.AssemblyInfoInputs.cache
+/Users/home/Projects/WorkingWithStrings/WorkingWithStrings/obj/Debug/net7.0/WorkingWithStrings.AssemblyInfo.cs
+/Users/home/Projects/WorkingWithStrings/WorkingWithStrings/obj/Debug/net7.0/WorkingWithStrings.csproj.CoreCompileInputs.cache
+/Users/home/Projects/WorkingWithStrings/WorkingWithStrings/obj/Debug/net7.0/WorkingWithStrings.dll
+/Users/home/Projects/WorkingWithStrings/WorkingWithStrings/obj/Debug/net7.0/refint/WorkingWithStrings.dll
+/Users/home/Projects/WorkingWithStrings/WorkingWithStrings/obj/Debug/net7.0/WorkingWithStrings.pdb
+/Users/home/Projects/WorkingWithStrings/WorkingWithStrings/obj/Debug/net7.0/WorkingWithStrings.genruntimeconfig.cache
+/Users/home/Projects/WorkingWithStrings/WorkingWithStrings/obj/Debug/net7.0/ref/WorkingWithStrings.dll

@@ -1,0 +1,15 @@
+/Users/home/Projects/WorkingWithStrings/PatternMatching/bin/Debug/net7.0/PatternMatching
+/Users/home/Projects/WorkingWithStrings/PatternMatching/bin/Debug/net7.0/PatternMatching.deps.json
+/Users/home/Projects/WorkingWithStrings/PatternMatching/bin/Debug/net7.0/PatternMatching.runtimeconfig.json
+/Users/home/Projects/WorkingWithStrings/PatternMatching/bin/Debug/net7.0/PatternMatching.dll
+/Users/home/Projects/WorkingWithStrings/PatternMatching/bin/Debug/net7.0/PatternMatching.pdb
+/Users/home/Projects/WorkingWithStrings/PatternMatching/obj/Debug/net7.0/PatternMatching.csproj.AssemblyReference.cache
+/Users/home/Projects/WorkingWithStrings/PatternMatching/obj/Debug/net7.0/PatternMatching.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/Projects/WorkingWithStrings/PatternMatching/obj/Debug/net7.0/PatternMatching.AssemblyInfoInputs.cache
+/Users/home/Projects/WorkingWithStrings/PatternMatching/obj/Debug/net7.0/PatternMatching.AssemblyInfo.cs
+/Users/home/Projects/WorkingWithStrings/PatternMatching/obj/Debug/net7.0/PatternMatching.csproj.CoreCompileInputs.cache
+/Users/home/Projects/WorkingWithStrings/PatternMatching/obj/Debug/net7.0/PatternMatching.dll
+/Users/home/Projects/WorkingWithStrings/PatternMatching/obj/Debug/net7.0/refint/PatternMatching.dll
+/Users/home/Projects/WorkingWithStrings/PatternMatching/obj/Debug/net7.0/PatternMatching.pdb
+/Users/home/Projects/WorkingWithStrings/PatternMatching/obj/Debug/net7.0/PatternMatching.genruntimeconfig.cache
+/Users/home/Projects/WorkingWithStrings/PatternMatching/obj/Debug/net7.0/ref/PatternMatching.dll

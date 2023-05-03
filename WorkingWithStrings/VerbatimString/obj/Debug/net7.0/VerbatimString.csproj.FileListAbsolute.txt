@@ -1,0 +1,15 @@
+/Users/home/Projects/WorkingWithStrings/VerbatimString/bin/Debug/net7.0/VerbatimString
+/Users/home/Projects/WorkingWithStrings/VerbatimString/bin/Debug/net7.0/VerbatimString.deps.json
+/Users/home/Projects/WorkingWithStrings/VerbatimString/bin/Debug/net7.0/VerbatimString.runtimeconfig.json
+/Users/home/Projects/WorkingWithStrings/VerbatimString/bin/Debug/net7.0/VerbatimString.dll
+/Users/home/Projects/WorkingWithStrings/VerbatimString/bin/Debug/net7.0/VerbatimString.pdb
+/Users/home/Projects/WorkingWithStrings/VerbatimString/obj/Debug/net7.0/VerbatimString.csproj.AssemblyReference.cache
+/Users/home/Projects/WorkingWithStrings/VerbatimString/obj/Debug/net7.0/VerbatimString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/Projects/WorkingWithStrings/VerbatimString/obj/Debug/net7.0/VerbatimString.AssemblyInfoInputs.cache
+/Users/home/Projects/WorkingWithStrings/VerbatimString/obj/Debug/net7.0/VerbatimString.AssemblyInfo.cs
+/Users/home/Projects/WorkingWithStrings/VerbatimString/obj/Debug/net7.0/VerbatimString.csproj.CoreCompileInputs.cache
+/Users/home/Projects/WorkingWithStrings/VerbatimString/obj/Debug/net7.0/VerbatimString.dll
+/Users/home/Projects/WorkingWithStrings/VerbatimString/obj/Debug/net7.0/refint/VerbatimString.dll
+/Users/home/Projects/WorkingWithStrings/VerbatimString/obj/Debug/net7.0/VerbatimString.pdb
+/Users/home/Projects/WorkingWithStrings/VerbatimString/obj/Debug/net7.0/VerbatimString.genruntimeconfig.cache
+/Users/home/Projects/WorkingWithStrings/VerbatimString/obj/Debug/net7.0/ref/VerbatimString.dll

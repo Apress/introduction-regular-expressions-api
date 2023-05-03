@@ -1,0 +1,15 @@
+/Users/home/Projects/WorkingWithStrings/Quantifiers/bin/Debug/net7.0/Quantifiers
+/Users/home/Projects/WorkingWithStrings/Quantifiers/bin/Debug/net7.0/Quantifiers.deps.json
+/Users/home/Projects/WorkingWithStrings/Quantifiers/bin/Debug/net7.0/Quantifiers.runtimeconfig.json
+/Users/home/Projects/WorkingWithStrings/Quantifiers/bin/Debug/net7.0/Quantifiers.dll
+/Users/home/Projects/WorkingWithStrings/Quantifiers/bin/Debug/net7.0/Quantifiers.pdb
+/Users/home/Projects/WorkingWithStrings/Quantifiers/obj/Debug/net7.0/Quantifiers.csproj.AssemblyReference.cache
+/Users/home/Projects/WorkingWithStrings/Quantifiers/obj/Debug/net7.0/Quantifiers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/Projects/WorkingWithStrings/Quantifiers/obj/Debug/net7.0/Quantifiers.AssemblyInfoInputs.cache
+/Users/home/Projects/WorkingWithStrings/Quantifiers/obj/Debug/net7.0/Quantifiers.AssemblyInfo.cs
+/Users/home/Projects/WorkingWithStrings/Quantifiers/obj/Debug/net7.0/Quantifiers.csproj.CoreCompileInputs.cache
+/Users/home/Projects/WorkingWithStrings/Quantifiers/obj/Debug/net7.0/Quantifiers.dll
+/Users/home/Projects/WorkingWithStrings/Quantifiers/obj/Debug/net7.0/refint/Quantifiers.dll
+/Users/home/Projects/WorkingWithStrings/Quantifiers/obj/Debug/net7.0/Quantifiers.pdb
+/Users/home/Projects/WorkingWithStrings/Quantifiers/obj/Debug/net7.0/Quantifiers.genruntimeconfig.cache
+/Users/home/Projects/WorkingWithStrings/Quantifiers/obj/Debug/net7.0/ref/Quantifiers.dll

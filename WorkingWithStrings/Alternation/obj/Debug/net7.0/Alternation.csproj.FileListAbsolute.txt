@@ -1,0 +1,15 @@
+/Users/home/Projects/WorkingWithStrings/Alternation/bin/Debug/net7.0/Alternation
+/Users/home/Projects/WorkingWithStrings/Alternation/bin/Debug/net7.0/Alternation.deps.json
+/Users/home/Projects/WorkingWithStrings/Alternation/bin/Debug/net7.0/Alternation.runtimeconfig.json
+/Users/home/Projects/WorkingWithStrings/Alternation/bin/Debug/net7.0/Alternation.dll
+/Users/home/Projects/WorkingWithStrings/Alternation/bin/Debug/net7.0/Alternation.pdb
+/Users/home/Projects/WorkingWithStrings/Alternation/obj/Debug/net7.0/Alternation.csproj.AssemblyReference.cache
+/Users/home/Projects/WorkingWithStrings/Alternation/obj/Debug/net7.0/Alternation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/Projects/WorkingWithStrings/Alternation/obj/Debug/net7.0/Alternation.AssemblyInfoInputs.cache
+/Users/home/Projects/WorkingWithStrings/Alternation/obj/Debug/net7.0/Alternation.AssemblyInfo.cs
+/Users/home/Projects/WorkingWithStrings/Alternation/obj/Debug/net7.0/Alternation.csproj.CoreCompileInputs.cache
+/Users/home/Projects/WorkingWithStrings/Alternation/obj/Debug/net7.0/Alternation.dll
+/Users/home/Projects/WorkingWithStrings/Alternation/obj/Debug/net7.0/refint/Alternation.dll
+/Users/home/Projects/WorkingWithStrings/Alternation/obj/Debug/net7.0/Alternation.pdb
+/Users/home/Projects/WorkingWithStrings/Alternation/obj/Debug/net7.0/Alternation.genruntimeconfig.cache
+/Users/home/Projects/WorkingWithStrings/Alternation/obj/Debug/net7.0/ref/Alternation.dll

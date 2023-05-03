@@ -1,0 +1,15 @@
+/Users/home/Projects/WorkingWithStrings/Metacharacters/bin/Debug/net7.0/Metacharacters
+/Users/home/Projects/WorkingWithStrings/Metacharacters/bin/Debug/net7.0/Metacharacters.deps.json
+/Users/home/Projects/WorkingWithStrings/Metacharacters/bin/Debug/net7.0/Metacharacters.runtimeconfig.json
+/Users/home/Projects/WorkingWithStrings/Metacharacters/bin/Debug/net7.0/Metacharacters.dll
+/Users/home/Projects/WorkingWithStrings/Metacharacters/bin/Debug/net7.0/Metacharacters.pdb
+/Users/home/Projects/WorkingWithStrings/Metacharacters/obj/Debug/net7.0/Metacharacters.csproj.AssemblyReference.cache
+/Users/home/Projects/WorkingWithStrings/Metacharacters/obj/Debug/net7.0/Metacharacters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/Projects/WorkingWithStrings/Metacharacters/obj/Debug/net7.0/Metacharacters.AssemblyInfoInputs.cache
+/Users/home/Projects/WorkingWithStrings/Metacharacters/obj/Debug/net7.0/Metacharacters.AssemblyInfo.cs
+/Users/home/Projects/WorkingWithStrings/Metacharacters/obj/Debug/net7.0/Metacharacters.csproj.CoreCompileInputs.cache
+/Users/home/Projects/WorkingWithStrings/Metacharacters/obj/Debug/net7.0/Metacharacters.dll
+/Users/home/Projects/WorkingWithStrings/Metacharacters/obj/Debug/net7.0/refint/Metacharacters.dll
+/Users/home/Projects/WorkingWithStrings/Metacharacters/obj/Debug/net7.0/Metacharacters.pdb
+/Users/home/Projects/WorkingWithStrings/Metacharacters/obj/Debug/net7.0/Metacharacters.genruntimeconfig.cache
+/Users/home/Projects/WorkingWithStrings/Metacharacters/obj/Debug/net7.0/ref/Metacharacters.dll

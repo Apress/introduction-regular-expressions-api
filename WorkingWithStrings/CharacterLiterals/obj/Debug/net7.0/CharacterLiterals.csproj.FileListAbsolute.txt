@@ -1,0 +1,15 @@
+/Users/home/Projects/WorkingWithStrings/CharacterLiterals/bin/Debug/net7.0/CharacterLiterals
+/Users/home/Projects/WorkingWithStrings/CharacterLiterals/bin/Debug/net7.0/CharacterLiterals.deps.json
+/Users/home/Projects/WorkingWithStrings/CharacterLiterals/bin/Debug/net7.0/CharacterLiterals.runtimeconfig.json
+/Users/home/Projects/WorkingWithStrings/CharacterLiterals/bin/Debug/net7.0/CharacterLiterals.dll
+/Users/home/Projects/WorkingWithStrings/CharacterLiterals/bin/Debug/net7.0/CharacterLiterals.pdb
+/Users/home/Projects/WorkingWithStrings/CharacterLiterals/obj/Debug/net7.0/CharacterLiterals.csproj.AssemblyReference.cache
+/Users/home/Projects/WorkingWithStrings/CharacterLiterals/obj/Debug/net7.0/CharacterLiterals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/Projects/WorkingWithStrings/CharacterLiterals/obj/Debug/net7.0/CharacterLiterals.AssemblyInfoInputs.cache
+/Users/home/Projects/WorkingWithStrings/CharacterLiterals/obj/Debug/net7.0/CharacterLiterals.AssemblyInfo.cs
+/Users/home/Projects/WorkingWithStrings/CharacterLiterals/obj/Debug/net7.0/CharacterLiterals.csproj.CoreCompileInputs.cache
+/Users/home/Projects/WorkingWithStrings/CharacterLiterals/obj/Debug/net7.0/CharacterLiterals.dll
+/Users/home/Projects/WorkingWithStrings/CharacterLiterals/obj/Debug/net7.0/refint/CharacterLiterals.dll
+/Users/home/Projects/WorkingWithStrings/CharacterLiterals/obj/Debug/net7.0/CharacterLiterals.pdb
+/Users/home/Projects/WorkingWithStrings/CharacterLiterals/obj/Debug/net7.0/CharacterLiterals.genruntimeconfig.cache
+/Users/home/Projects/WorkingWithStrings/CharacterLiterals/obj/Debug/net7.0/ref/CharacterLiterals.dll

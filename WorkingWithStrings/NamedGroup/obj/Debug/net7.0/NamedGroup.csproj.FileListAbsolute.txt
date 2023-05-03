@@ -1,0 +1,15 @@
+/Users/home/Projects/WorkingWithStrings/NamedGroup/bin/Debug/net7.0/NamedGroup
+/Users/home/Projects/WorkingWithStrings/NamedGroup/bin/Debug/net7.0/NamedGroup.deps.json
+/Users/home/Projects/WorkingWithStrings/NamedGroup/bin/Debug/net7.0/NamedGroup.runtimeconfig.json
+/Users/home/Projects/WorkingWithStrings/NamedGroup/bin/Debug/net7.0/NamedGroup.dll
+/Users/home/Projects/WorkingWithStrings/NamedGroup/bin/Debug/net7.0/NamedGroup.pdb
+/Users/home/Projects/WorkingWithStrings/NamedGroup/obj/Debug/net7.0/NamedGroup.csproj.AssemblyReference.cache
+/Users/home/Projects/WorkingWithStrings/NamedGroup/obj/Debug/net7.0/NamedGroup.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/Projects/WorkingWithStrings/NamedGroup/obj/Debug/net7.0/NamedGroup.AssemblyInfoInputs.cache
+/Users/home/Projects/WorkingWithStrings/NamedGroup/obj/Debug/net7.0/NamedGroup.AssemblyInfo.cs
+/Users/home/Projects/WorkingWithStrings/NamedGroup/obj/Debug/net7.0/NamedGroup.csproj.CoreCompileInputs.cache
+/Users/home/Projects/WorkingWithStrings/NamedGroup/obj/Debug/net7.0/NamedGroup.dll
+/Users/home/Projects/WorkingWithStrings/NamedGroup/obj/Debug/net7.0/refint/NamedGroup.dll
+/Users/home/Projects/WorkingWithStrings/NamedGroup/obj/Debug/net7.0/NamedGroup.pdb
+/Users/home/Projects/WorkingWithStrings/NamedGroup/obj/Debug/net7.0/NamedGroup.genruntimeconfig.cache
+/Users/home/Projects/WorkingWithStrings/NamedGroup/obj/Debug/net7.0/ref/NamedGroup.dll

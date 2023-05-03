@@ -1,0 +1,15 @@
+/Users/home/Projects/WorkingWithStrings/ReplacingText/bin/Debug/net7.0/ReplacingText
+/Users/home/Projects/WorkingWithStrings/ReplacingText/bin/Debug/net7.0/ReplacingText.deps.json
+/Users/home/Projects/WorkingWithStrings/ReplacingText/bin/Debug/net7.0/ReplacingText.runtimeconfig.json
+/Users/home/Projects/WorkingWithStrings/ReplacingText/bin/Debug/net7.0/ReplacingText.dll
+/Users/home/Projects/WorkingWithStrings/ReplacingText/bin/Debug/net7.0/ReplacingText.pdb
+/Users/home/Projects/WorkingWithStrings/ReplacingText/obj/Debug/net7.0/ReplacingText.csproj.AssemblyReference.cache
+/Users/home/Projects/WorkingWithStrings/ReplacingText/obj/Debug/net7.0/ReplacingText.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/Projects/WorkingWithStrings/ReplacingText/obj/Debug/net7.0/ReplacingText.AssemblyInfoInputs.cache
+/Users/home/Projects/WorkingWithStrings/ReplacingText/obj/Debug/net7.0/ReplacingText.AssemblyInfo.cs
+/Users/home/Projects/WorkingWithStrings/ReplacingText/obj/Debug/net7.0/ReplacingText.csproj.CoreCompileInputs.cache
+/Users/home/Projects/WorkingWithStrings/ReplacingText/obj/Debug/net7.0/ReplacingText.dll
+/Users/home/Projects/WorkingWithStrings/ReplacingText/obj/Debug/net7.0/refint/ReplacingText.dll
+/Users/home/Projects/WorkingWithStrings/ReplacingText/obj/Debug/net7.0/ReplacingText.pdb
+/Users/home/Projects/WorkingWithStrings/ReplacingText/obj/Debug/net7.0/ReplacingText.genruntimeconfig.cache
+/Users/home/Projects/WorkingWithStrings/ReplacingText/obj/Debug/net7.0/ref/ReplacingText.dll

@@ -1,0 +1,78 @@
+﻿<Properties StartupConfiguration="{2D0835F6-BE83-497C-A087-6B3C615C53B3}|Default">
+  <MonoDevelop.Ide.ItemProperties.CharacterClasses PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.WorkingWithStrings PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BackReferencesPhoneNumber/Program.cs">
+    <Files>
+      <File FileName="WorkingWithStrings/Program.cs" Line="9" Column="29" />
+      <File FileName="CharacterLiterals/Program.cs" Line="13" Column="1" />
+      <File FileName="ReplacingText/Program.cs" Line="6" Column="27" />
+      <File FileName="PatternMatching/Program.cs" Line="16" Column="29" />
+      <File FileName="CapturingGroups/Program.cs" Line="27" Column="2" />
+      <File FileName="NamedGroup/Program.cs" Line="5" Column="17" />
+      <File FileName="BackReferencesPhoneNumber/Program.cs" Line="10" Column="15" />
+      <File FileName="BackreferencesRepeatedWordsInString/Program.cs" Line="11" Column="2" />
+      <File FileName="VerbatimString/Program.cs" Line="5" Column="18" />
+      <File FileName="Alternation/Program.cs" Line="10" Column="2" />
+      <File FileName="Metacharacters/Program.cs" Line="9" Column="14" />
+      <File FileName="Quantifiers/Program.cs" Line="7" Column="18" />
+      <File FileName="CharacterClasses/Program.cs" Line="10" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RegularExpressionsAPI" expanded="True">
+            <Node name="Alternation" expanded="True" />
+            <Node name="Alternation" expanded="True" />
+            <Node name="BackReferencesPhoneNumber" expanded="True" />
+            <Node name="BackReferencesPhoneNumber" expanded="True" />
+            <Node name="BackReferencesPhoneNumber" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="BackreferencesRepeatedWordsInString" expanded="True" />
+            <Node name="BackreferencesRepeatedWordsInString" expanded="True" />
+            <Node name="CapturingGroups" expanded="True" />
+            <Node name="CapturingGroups" expanded="True" />
+            <Node name="CharacterClasses" expanded="True" />
+            <Node name="CharacterClasses" expanded="True" />
+            <Node name="CharacterLiterals" expanded="True" />
+            <Node name="CharacterLiterals" expanded="True" />
+            <Node name="Metacharacters" expanded="True" />
+            <Node name="Metacharacters" expanded="True" />
+            <Node name="NamedGroup" expanded="True" />
+            <Node name="NamedGroup" expanded="True" />
+            <Node name="NamedGroup" expanded="True" />
+            <Node name="PatternMatching" expanded="True" />
+            <Node name="PatternMatching" expanded="True" />
+            <Node name="PatternMatching" expanded="True" />
+            <Node name="Quantifiers" expanded="True" />
+            <Node name="Quantifiers" expanded="True" />
+            <Node name="ReplacingText" expanded="True" />
+            <Node name="ReplacingText" expanded="True" />
+            <Node name="ReplacingText" expanded="True" />
+            <Node name="VerbatimString" expanded="True" />
+            <Node name="VerbatimString" expanded="True" />
+            <Node name="VerbatimString" expanded="True" />
+            <Node name="WorkingWithStrings" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CapturingGroups PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.VerbatimString PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CharacterLiterals PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ReplacingText PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.PatternMatching PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.BackReferencesPhoneNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Metacharacters PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.NamedGroup PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.BackreferencesRepeatedWordsInString PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Alternation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Quantifiers PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

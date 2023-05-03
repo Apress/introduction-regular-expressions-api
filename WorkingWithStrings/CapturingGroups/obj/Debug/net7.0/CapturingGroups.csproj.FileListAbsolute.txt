@@ -1,0 +1,15 @@
+/Users/home/Projects/WorkingWithStrings/CapturingGroups/bin/Debug/net7.0/CapturingGroups
+/Users/home/Projects/WorkingWithStrings/CapturingGroups/bin/Debug/net7.0/CapturingGroups.deps.json
+/Users/home/Projects/WorkingWithStrings/CapturingGroups/bin/Debug/net7.0/CapturingGroups.runtimeconfig.json
+/Users/home/Projects/WorkingWithStrings/CapturingGroups/bin/Debug/net7.0/CapturingGroups.dll
+/Users/home/Projects/WorkingWithStrings/CapturingGroups/bin/Debug/net7.0/CapturingGroups.pdb
+/Users/home/Projects/WorkingWithStrings/CapturingGroups/obj/Debug/net7.0/CapturingGroups.csproj.AssemblyReference.cache
+/Users/home/Projects/WorkingWithStrings/CapturingGroups/obj/Debug/net7.0/CapturingGroups.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/Projects/WorkingWithStrings/CapturingGroups/obj/Debug/net7.0/CapturingGroups.AssemblyInfoInputs.cache
+/Users/home/Projects/WorkingWithStrings/CapturingGroups/obj/Debug/net7.0/CapturingGroups.AssemblyInfo.cs
+/Users/home/Projects/WorkingWithStrings/CapturingGroups/obj/Debug/net7.0/CapturingGroups.csproj.CoreCompileInputs.cache
+/Users/home/Projects/WorkingWithStrings/CapturingGroups/obj/Debug/net7.0/CapturingGroups.dll
+/Users/home/Projects/WorkingWithStrings/CapturingGroups/obj/Debug/net7.0/refint/CapturingGroups.dll
+/Users/home/Projects/WorkingWithStrings/CapturingGroups/obj/Debug/net7.0/CapturingGroups.pdb
+/Users/home/Projects/WorkingWithStrings/CapturingGroups/obj/Debug/net7.0/CapturingGroups.genruntimeconfig.cache
+/Users/home/Projects/WorkingWithStrings/CapturingGroups/obj/Debug/net7.0/ref/CapturingGroups.dll
